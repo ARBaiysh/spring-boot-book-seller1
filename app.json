@@ -1,9 +1,0 @@
-{
-  "name": "baisyh-book-seller",
-  "buildpacks":
-  [
-    {
-      "url": "heroku/gradle"
-    }
-  ]
-}
